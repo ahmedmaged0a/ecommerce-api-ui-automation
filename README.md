@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blue" alt="Java"/>
+  <img src="https://img.shields.io/badge/Reporting-Allure-purple" alt="Allure"/>
+</p>
+
 # ECommerce Automation
 
 A robust Java-based automation framework for e-commerce applications, supporting both API and UI testing with Selenium, RestAssured, and TestNG. Features include Page Object Model, data-driven tests, and Allure reporting for scalable, maintainable test coverage.
