@@ -1,0 +1,143 @@
+[DEBUG] - [2025-06-23 21:47:50] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml"
+[INFO] - [2025-06-23 21:47:50] [main] [org.testng.internal.Utils] - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 10 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 28 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 33 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.UI.listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\241c4570-16e1-4731-a52f-450d1756ad98-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3f19a64e-2a41-49fb-92ea-9cd9ac7a90f9-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3fb25182-7439-40fe-8769-84a68319fa98-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\69536604-f5cb-47cf-a407-7f47db1f9534-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\a2ff3d48-b902-4005-b1c1-ee4368e0f310-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\abffc2eb-8158-49aa-9914-fcd63a3194d8-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b1939169-2614-444e-adfd-4751b1b96ffb-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b4284b61-b884-42ef-ae24-e9ee0589d6e0-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b867ffa2-4f86-4bbc-b61b-0ffcc8230e23-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\bc54a14d-b1f4-46cc-8209-1d09337e047b-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\be2a91c4-0e07-43f9-aaa5-db79102c67fd-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c796b1a4-8317-4ded-9e52-170e176b3b08-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\d295a32c-915a-4a8c-892c-e827d6684aaf-container.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\dcbda58e-c91a-4c61-b055-be18cb5c05f8-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\environment.properties
+[INFO] - [2025-06-23 21:47:51] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\f9422712-22a9-4da0-b795-842a6b0d1204-result.json
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml
+
+[INFO] - [2025-06-23 21:47:51] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 28 ms.
+[DEBUG] - [2025-06-23 21:47:52] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['CreateOrder']['country']
+[INFO] - [2025-06-23 21:47:52] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[DEBUG] - [2025-06-23 21:47:52] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userEmail']
+[DEBUG] - [2025-06-23 21:47:52] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userPassword']
+[INFO] - [2025-06-23 21:47:55] [main] [com.shopping.API.requests.Login] - Login request sent with body: com.shopping.API.POJO.Serialization.LoginRequest@79486f38
+[INFO] - [2025-06-23 21:47:55] [main] [com.shopping.API.requests.Login] - io.restassured.internal.RequestSpecificationImpl@15a41088
+/api/ecom/auth/login
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - {"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODU5NjcyMjBlNzA2OGQzOTgyODAyYzAiLCJ1c2VyRW1haWwiOiJhYnNoOHV5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjE1NTkzMTEzMDEsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NTA3MDQ0NzgsImV4cCI6MTc4MjI2MjA3OH0.cXOgDUE4ZtidppScAy3x8pMwDo9qklsEZymtfQjZdBU","userId":"685967220e7068d3982802c0","message":"Login Successfully"}
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login response deserialized successfully
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login response status code: 200
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login response Message: Login Successfully
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - 685967220e7068d3982802c0
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login response body validated successfully
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2ODU5NjcyMjBlNzA2OGQzOTgyODAyYzAiLCJ1c2VyRW1haWwiOiJhYnNoOHV5QGdtYWlsLmNvbSIsInVzZXJNb2JpbGUiOjE1NTkzMTEzMDEsInVzZXJSb2xlIjoiY3VzdG9tZXIiLCJpYXQiOjE3NTA3MDQ0NzgsImV4cCI6MTc4MjI2MjA3OH0.cXOgDUE4ZtidppScAy3x8pMwDo9qklsEZymtfQjZdBU
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.API.requests.Login] - Login userId: 685967220e7068d3982802c0
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case loginRequestTest passed successfully.
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:47:58] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productName']
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productCategory']
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productSubCategory']
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productPrice']
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productDescription']
+[DEBUG] - [2025-06-23 21:47:58] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Product']['productFor']
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - io.restassured.internal.RequestSpecificationImpl@2a2cdba0
+/api/ecom/product/add-product
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Response body : {"productId":"6859a15f0e7068d398289b8d","message":"Product Added Successfully"}
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Status code: 201
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Add product response deserialized successfully
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Add product response Message: Product Added Successfully
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Status code validation passed: 201
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.API.requests.AddProduct] - Response body validation passed: Product Added Successfully
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case addProductRequestTest passed successfully.
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:47:59] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - io.restassured.internal.RequestSpecificationImpl@31048b3d
+/api/ecom/order/create-order
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Response body : {"orders":["6859a1610e7068d398289b95"],"productOrderId":["6859a15f0e7068d398289b8d"],"message":"Order Placed Successfully"}
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Status code: 201
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Create order response deserialized successfully
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Create order response Message: Order Placed Successfully
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Status code validated successfully: 201
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.API.requests.CreateOrder] - Create order response validated successfully
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case createOrderRequestTest passed successfully.
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:48:01] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.API.requests.GetorderDetails] - io.restassured.internal.RequestSpecificationImpl@5cb42eb2
+api/ecom/order/get-orders-details
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.API.requests.GetorderDetails] - Response body : {"data":{"_id":"6859a1610e7068d398289b95","orderById":"685967220e7068d3982802c0","orderBy":"absh8uy@gmail.com","productOrderedId":"6859a15f0e7068d398289b8d","productName":"Test Product","country":"Egypt","productDescription":"This is a new product added via API","productImage":"https://rahulshettyacademy.com/api/ecom/uploads/productImage_1750704479927.jpg","orderPrice":"50000","__v":0},"message":"Orders fetched for customer Successfully"}
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.API.requests.GetorderDetails] - Status code: 200
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.API.requests.GetorderDetails] - Status code validation passed: 200
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.API.requests.GetorderDetails] - Response body validation passed: {"data":{"_id":"6859a1610e7068d398289b95","orderById":"685967220e7068d3982802c0","orderBy":"absh8uy@gmail.com","productOrderedId":"6859a15f0e7068d398289b8d","productName":"Test Product","country":"Egypt","productDescription":"This is a new product added via API","productImage":"https://rahulshettyacademy.com/api/ecom/uploads/productImage_1750704479927.jpg","orderPrice":"50000","__v":0},"message":"Orders fetched for customer Successfully"}
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case GetOrderDetailsRequestTest passed successfully.
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:48:02] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - io.restassured.internal.RequestSpecificationImpl@4de14c58
+/api/ecom/order/delete-order/
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Response body : {"message":"Orders Deleted Successfully"}
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Status code: 200
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Delete order response deserialized successfully
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Delete order response Message: Orders Deleted Successfully
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Status code validation passed: 200
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.API.requests.DeleteOrder] - Response message validation passed: Orders Deleted Successfully
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case DeleteOrderRequestTest passed successfully.
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:48:03] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - io.restassured.internal.RequestSpecificationImpl@106e816c
+/api/ecom/product/delete-product/
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Response body : {"message":"Product Deleted Successfully"}
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Status code: 200
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Delete order response deserialized successfully
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Delete order response Message: Product Deleted Successfully
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Status code validation passed: 200
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.API.requests.DeleteProduct] - Response message validation passed: Product Deleted Successfully
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.UI.listeners.TestNGListeners] - Test case DeleteProductRequestTest passed successfully.
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.tests.API.E2eTests] - Test completed. Cleaning up resources.
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[INFO] - [2025-06-23 21:48:04] [main] [org.testng.internal.Utils] - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7356ec91: 0 ms
+[INFO] - [2025-06-23 21:48:04] [main] [com.shopping.UI.listeners.TestNGListeners] - Test Execution Finished .......

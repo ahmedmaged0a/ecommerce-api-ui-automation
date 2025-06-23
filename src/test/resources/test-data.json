@@ -1,0 +1,49 @@
+{
+  "LoginData": {
+    "validCredentials": {
+      "userEmail": "absh8uy@gmail.com",
+      "userPassword": "Am1231#@"
+    },
+    "invalidCredentials": {
+      "userEmail": "wrongUser",
+      "userPassword": "wrongPass"
+    }
+  },
+  "ProductData": {
+    "validProduct": [
+      {
+        "productName": "ZARA COAT 3",
+        "productPrice": 31500
+      },
+      {
+        "productName": "ADIDAS ORIGINAL",
+        "productPrice": 31500
+      },
+      {
+        "productName": "IPHONE 13 PRO",
+        "productPrice": 231500
+      }
+    ],
+    "invalidProduct": {
+      "productName": "Wrong Product",
+      "productPrice": -100
+    }
+  },
+  "API": {
+    "Login": {
+      "userEmail": "absh8uy@gmail.com",
+      "userPassword": "Am1231#@"
+    },
+    "Product": {
+      "productName": "Test Product",
+      "productCategory": "Electronics",
+      "productSubCategory": "Mobile Phones",
+      "productPrice": "50000",
+      "productDescription": "This is a new product added via API",
+      "productFor": "women"
+    },
+    "CreateOrder": {
+      "country": "Egypt"
+    }
+  }
+}

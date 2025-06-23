@@ -1,0 +1,60 @@
+[DEBUG] - [2025-06-23 20:49:10] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml"
+[INFO] - [2025-06-23 20:49:10] [main] [org.testng.internal.Utils] - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 26 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 66 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 50 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.UI.listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\failed-addItemToCartFromProductTC05.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\failed-removeItemFromCartTC09.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\failed-viewCartItemsTC08.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-addItemToCartFromProductTC05.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-addItemToCartFromViewProductTC06.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-buyItemsInCartTC10.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-loginSuccessfullyTC01.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-loginWithEmptyEmailTC03.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-loginWithEmptyPasswordTC04.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-loginWithInvalidCredentialsTC02.png
+[INFO] - [2025-06-23 20:49:12] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\screenshots\Passed-viewCartItemsTC08.png
+[INFO] - [2025-06-23 20:49:12] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml
+
+[INFO] - [2025-06-23 20:49:13] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 47 ms.
+[DEBUG] - [2025-06-23 20:49:13] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['CreateOrder']['country']
+[INFO] - [2025-06-23 20:49:14] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[DEBUG] - [2025-06-23 20:49:25] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userEmail']
+[DEBUG] - [2025-06-23 20:49:25] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userPassword']
+[INFO] - [2025-06-23 20:49:56] [main] [com.shopping.API.requests.Login] - Login request sent with body: com.shopping.API.POJO.Serialization.LoginRequest@5df7ae0a
+[INFO] - [2025-06-23 20:49:56] [main] [com.shopping.API.requests.Login] - io.restassured.internal.RequestSpecificationImpl@215f8d7
+/api/ecom/auth/login

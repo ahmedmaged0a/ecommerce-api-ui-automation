@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="com.shopping.tests.API.E2eTests"/>
+        </classes>
+    </test>
+    <test name="UI Tests" parallel="methods" thread-count="5">
+        <classes>
+            <class name="com.shopping.tests.UI.E2eTests"/>
+        </classes>
+    </test>
+</suite>

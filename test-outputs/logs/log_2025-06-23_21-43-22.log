@@ -1,0 +1,184 @@
+[DEBUG] - [2025-06-23 21:43:22] [main] [org.testng.TestNG] - suiteXmlPath: "D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml"
+[INFO] - [2025-06-23 21:43:22] [main] [org.testng.internal.Utils] - [XmlSuite] [WARN] 'parallel' value 'false' is no longer valid, defaulting to 'none'.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 34 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 62 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:24] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 43 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.UI.listeners.TestNGListeners] - Test Execution Started .......
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: allure.properties
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: environment.properties
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: log4j2.properties
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties file: web.properties
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.PropertiesUtils] - Loaded properties files: 4
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\045de87e-f96b-4c60-9b47-5c9593913fa7-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\04f41642-cd27-4faa-b03f-e27db39091ec-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\08e05db0-cdf5-4c85-b8a5-e71a0278604e-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\0d0df44d-fb83-42b4-bb9d-254b696747db-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\0dc0f11f-c3dc-4e8a-bb45-0f5249c47baa-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\0f209b47-b03b-457a-acff-be1c8add8486-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\0f48fff6-cc15-49be-96e4-2c6bd9981f02-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\135042e7-854e-4db2-97bb-f00dbd621954-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\147b0de0-3831-4bd2-8f77-61d50ef32d9e-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\1494c046-40a3-4541-8836-7849e5e4bbaa-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\14c39f20-3e19-422a-8a10-7c6a97261c9b-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\151cc420-e815-4b1f-98e0-486974408bca-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\17cfddb0-2f7e-418e-846b-55d44e181a1e-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\192e155b-c13d-448c-a2b8-d207e8714cfd-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\1a760c9e-2c96-4950-abb7-79265a2ba720-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\1b465160-68fe-4a5c-adf7-2c12f02af1dc-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\1d96fa03-6ebb-4189-9e9e-c7749c7a8fe6-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\256d01b4-9449-47d7-b1dc-7f8d60fcc1e2-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\29c75f38-d3ee-4ebf-aa11-8a5e1fb9ec60-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\2ae6f2ca-49a4-426c-9cc0-2fb062fa5b56-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3104e072-4ad6-42d7-a456-ecfdba8a98a1-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\32fe75a4-1851-45fd-ad88-b8e452da1592-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\361db8be-d67d-437e-8b4b-4a10391f8aea-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\37efcab0-35ef-45d8-b3fd-fb9f51522777-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\38981241-216f-4198-8b89-54f6ec417faa-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\38f3119c-eedc-4be1-8770-56c7ba918a43-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\396bb3c9-8124-4a91-8f16-107d3b581be4-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3a6fd927-73b3-4865-b758-4d28e4548f64-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3c766ee4-eac8-4f8f-8268-56e779bc15e9-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\3cb26edb-cb4a-4b27-a9e9-5a146eb289e4-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\4249ffb6-240f-4a65-932e-3b646fb97150-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\46dde148-ec58-4d49-afe6-b1c95d37d02f-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\47bc4329-fcf7-4921-a601-6e540287e1b1-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\48200197-fb4d-4073-a2cd-65a39e1af715-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\495bc6ef-f432-4b99-b67f-6d048ec79a09-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\4c876df6-cee5-479c-b676-399c0bd6cafe-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\50107f49-2525-4458-9d86-91ca81b73fa4-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\50180725-0b58-4bb5-99b2-e89e7b2c6984-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\506ff670-7328-4abd-8575-6ab178b65f3e-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\50bad0ec-5932-428d-9625-95c996ffb8c5-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5461502e-b1f1-4a64-aac3-85d7eca59f95-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\573f2e61-ad48-43ff-9c14-882c0d626bbd-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\58a4394e-731e-4408-9adc-9f0d17d13fe8-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\598e69ee-3a36-4e45-b7ec-d80078c3cca5-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\59aea0a5-fa82-4c15-a5d1-9bd5510565e2-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5c4eda25-644c-4b84-b40e-64794589f126-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5c7985c1-972b-4858-89f9-ff841c38ffe1-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5ce83f17-542c-43af-9bcc-ea092b428f25-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5eed2571-b711-4ef7-8a72-e280ced42ffd-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5f3fb490-2ace-4513-b749-e22a00a8c76d-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\5f67b484-2c94-4fe0-acbd-1ef670d196ae-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\60dc428a-46bb-45c7-b9b6-13723b4c6040-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\62b4cab7-d5a0-46dd-9003-fdd2430b5861-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\65a9d5c5-b320-40cb-a098-4b413603ce16-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\65e5b0ae-9626-4c29-9835-2a60dddec486-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\692e4fba-16ba-4553-8b03-50d8ee7e2acd-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\69c6c42a-7b2b-4d2e-817a-405e24242bc8-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6a94ae7a-2259-48a8-91e1-402c517a78d6-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6ad1d3ae-bee3-46b3-b83c-16e45241529f-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6c442511-c310-4dad-9e57-60beaf3c4d88-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6c5412ae-49a2-4b31-b283-503aea5454d6-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6ca24789-3351-4313-89c5-ec4235e6ded1-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\6db893ff-98c0-499c-ae70-b9ef4c7e3b2c-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\70021723-c872-4da4-b2aa-0e08daf63318-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\727ec9b8-b220-4a73-9beb-5949b924b15a-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\738dea8a-78b5-432d-a11f-1f9df0ae6d9c-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\74541e55-dda0-404e-afab-a3c6f176f46f-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\76e8c981-79e7-421f-81b6-a1c83732f0ba-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\780a7a27-e724-44ff-9160-980a60cdce16-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\79cb24de-c54b-4e49-9ad1-b4e9db8e97b4-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\79cd5689-1c19-4a1b-bb74-0caf4b1dc4fa-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7a422e65-8c9c-4103-957a-a0f28588235d-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7c9404bd-b3f2-4f41-817e-631c95fd25fc-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7ece1142-99b4-4529-bc23-cf816e2b835b-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7ed6a29f-44c8-40e7-aa35-fdf368371480-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7eff095a-425e-4e31-a807-895c94e37149-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\7f007afe-98a3-48c6-b1a8-fa55a9aae0d8-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\8663ea52-aff9-49ca-b237-d38ce19799e8-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\87225838-4b39-40f2-922c-eb675935058a-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\8768aa43-1b6a-4845-8720-6706bd4b7c3f-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\882420f2-f18d-4d6e-998a-0e27fa0e925a-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\887cbb74-3e1d-419b-ab9f-e6b08746219d-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\89a5b533-be83-4e64-b89d-7bfa71f925dc-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\8af3133b-15fb-4049-8034-c641d733a29e-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\8c575980-e242-4498-ba75-7c83f705a114-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\8ec31a9d-ad62-44b9-bccf-f0364673ed10-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\914ab9ae-75d1-4c4a-b38d-c07d73d25477-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\94339ea6-4bcb-4d2e-9a2f-a13fe1d0ed1c-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\94343da4-8b36-4328-81e5-883ee444058b-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\9572dd24-c48f-4a55-9f51-01de8c5632d5-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\97d06f7a-09fe-4a3c-a7d5-c4114492d373-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\9bf570b1-4087-4137-be41-1f8ac08392cd-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\9d996078-ada3-47a0-a0b0-63915e15d612-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\9df53742-f2a0-4562-a507-88bbdda9f72a-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\a2fb861f-5571-4d95-8012-505807dcfaa5-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\a69d3d51-6a06-457f-b9d4-2dfa6f36b1d7-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\adf27fdd-bd11-456c-83b2-25e19321cc02-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\ae6a2f9f-7757-4cad-b61a-e5d1722be742-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\af754585-551a-419e-9c0b-238674c16ef9-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b19081c7-aecc-4b99-ac58-b09658554a9e-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b21506bf-d0ee-4ec1-ac3a-f2b9aed23d0d-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b3153b92-a04d-43f0-a09f-09bb3b839194-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b4b3b21a-4207-4b13-9592-1161558f9b92-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b57a3ecb-53f1-4068-8d2b-45be69a41b4e-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b7105cd2-1db2-449f-b4a8-c361ae2f2b5d-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\b7e30b77-9515-4f12-bd65-bd0f0d576af2-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\bcf1a282-cc4c-42e4-8d5e-d3149e9224cc-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\bdc929f4-5474-40b6-8e90-5663854a5bb1-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\be2eb813-e3f7-4233-ab05-d4901aaf0ecf-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\be779e23-b8be-4969-9b5d-fd6be5c1b1ca-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\bea701c0-5d65-45b2-97bd-3593de88d945-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\bff3de5e-7ff6-4ccf-a6df-f683fe43e8ba-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c2a871cd-9cef-46ca-b2fb-15bfb192f733-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c4090a84-22fc-4250-94f4-2b4aa70212fb-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c4365960-508e-436f-a283-87f1e6536ab2-attachment
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c4d2948f-873b-46a4-9742-97f7fe562bfb-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c70a66db-80a3-4bdd-b74d-d1c502bcffc1-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\c9f3b834-7aad-4b39-824b-c6a0142662e3-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\ccb0a509-fee0-43b5-9ed3-b45613b44928-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\d407d7fe-5ffe-45dc-9a4c-e8c7d1af9079-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\d97a492b-ed7c-46f5-bbe7-d6a1108e1d7c-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e196498b-8fcc-4cfe-8e4e-74fc40682bae-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e3f4ef57-91f4-4250-908c-cc889cab0f63-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e539f64f-762e-4d42-aa2a-ecdb86f38de5-attachment.txt
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e5ac5ef8-5d4b-4ab3-9f3e-74df3d9a53a3-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e6b527e0-ed62-4257-9a1f-262cd9ea75ef-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e718745a-85ae-42a4-90c1-55c24cc1d076-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e73da55f-1879-46fc-b684-4b7466ca8aa7-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\e81570d7-f93c-4f27-abbe-30613e8bc290-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\ef1cdc3f-ac69-46ab-9138-9c66fdfc0366-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\environment.properties
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\f4c0c12f-5422-4e7a-b399-b9634cfde068-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\f51eef20-ce85-4a8a-80a4-db210783e77c-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\f85ffd73-9105-45f3-bd49-b2e85543dfcd-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\fa8bfad5-eb43-497a-b8f6-bd536a2d7580-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\fe3027b5-dcb4-4998-b58d-97f58cf89970-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\fe906890-d71b-4224-ab91-427ef07a9c2a-result.json
+[INFO] - [2025-06-23 21:43:25] [main] [com.shopping.utils.FilesUtils] - Deleted file: D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\test-outputs\allure-results\ff4a9680-c408-402d-a063-0c265b5cf3b5-container.json
+[INFO] - [2025-06-23 21:43:25] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  D:\Intiliji WorkSpace\Selenium\ECommerceAutomation\APIRunner.xml
+
+[INFO] - [2025-06-23 21:43:26] [main] [org.testng.internal.Utils] - [Utils] DynamicGraphHelper.createDynamicGraph() took 46 ms.
+[DEBUG] - [2025-06-23 21:43:27] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['CreateOrder']['country']
+[INFO] - [2025-06-23 21:43:27] [main] [com.shopping.UI.listeners.TestNGListeners] - API tests do not require a driver instance.
+[DEBUG] - [2025-06-23 21:43:31] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userEmail']
+[DEBUG] - [2025-06-23 21:43:33] [main] [com.jayway.jsonpath.internal.path.CompiledPath] - Evaluating path: $['API']['Login']['userPassword']

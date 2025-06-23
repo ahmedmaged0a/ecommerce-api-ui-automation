@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" verbose="2" parallel="false">
+    <test name="E2E API Tests">
+        <classes>
+            <class name="com.shopping.tests.API.E2eTests">
+                <methods>
+                    <include name="loginRequestTest"/>
+                    <include name="addProductRequestTest"/>
+                    <include name="createOrderRequestTest"/>
+                    <include name="GetOrderDetailsRequestTest"/>
+                    <include name="DeleteOrderRequestTest"/>
+                    <include name="DeleteProductRequestTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ecommerce UI E2E Automation Testing" verbose="2" parallel="methods" thread-count="5">
+    <test name="Login Tests">
+        <classes>
+            <class name="com.shopping.tests.UI.E2eTests">
+                <methods>
+                    <include name="loginSuccessfullyTC01"/>
+                    <include name="loginWithInvalidCredentialsTC02"/>
+                    <include name="loginWithEmptyEmailTC03"/>
+                    <include name="loginWithEmptyPasswordTC04"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Add to Cart">
+        <classes>
+            <class name="com.shopping.tests.UI.E2eTests">
+                <methods>
+                    <include name="addItemToCartFromProductTC05"/>
+                    <include name="addItemToCartFromViewProductTC06"/>
+                    <include name="viewCartItemsTC08"/>
+                    <include name="removeItemFromCartTC09"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Checkout Process">
+        <classes>
+            <class name="com.shopping.tests.UI.E2eTests">
+                <methods>
+                    <include name="buyItemsInCartTC10"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
